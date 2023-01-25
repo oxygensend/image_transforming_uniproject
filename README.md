@@ -1,1 +1,4 @@
-# obrazy_p1
+# Image Transforming
+
+
+Image Transforming project for AGH course 
